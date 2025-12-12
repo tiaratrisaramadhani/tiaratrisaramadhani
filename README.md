@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi There, I'm Tiara Trisanti Ramadhani 👋
+
+I am an active learner focused on Quality Assurance. I am currently building my portfolio for Test Automation and Risk Analysis. I am ready to contribute to product integrity and quality.
+
+---
+
+### 🌐 Let's Connect
+[🔗 LinkedIn] | [📧 Email]
 
 <!--
 **tiaratrisaramadhani/tiaratrisaramadhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
