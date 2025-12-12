@@ -5,8 +5,11 @@ I am an active learner focused on Quality Assurance. I am currently building my 
 ---
 
 ### 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tiaratrisantiramadhani/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-red?style=flat&logo=gmail)](mailto:tiara.trisaramadhani@gmail.com)
+
+[![Email](https://img.shields.io/badge/Email-Contact-FF7F00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiara.trisaramadhani@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiaratrisantiramadhani/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ttiararmdhn)
+[![X (Twitter)](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ttiararmdhni)
 
 
 <!--
