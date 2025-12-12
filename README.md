@@ -5,7 +5,8 @@ I am an active learner focused on Quality Assurance. I am currently building my 
 ---
 
 ### 🌐 Let's Connect
-[🔗 LinkedIn : https://www.linkedin.com/in/tiaratrisantiramadhani/] | [📧 Email : tiara.trisaramadhani@gmail.com]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([Link ke Profil LinkedIn Anda])
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-red?style=flat&logo=gmail)](mailto:[Alamat Email Anda])
 
 <!--
 **tiaratrisaramadhani/tiaratrisaramadhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
