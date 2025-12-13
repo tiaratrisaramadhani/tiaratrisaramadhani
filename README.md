@@ -1,7 +1,6 @@
-# Hi There, I'm Tiara Trisanti Ramadhani 👋
+# Hi There 👋
 
-I am an active learner focused on Quality Assurance. I am currently building my portfolio for Test Automation and Risk Analysis. I am ready to contribute to product integrity and quality.
-
+I am an active learner focused on Quality Assurance.
 ---
 
 ### 🌐 Let's Connect
